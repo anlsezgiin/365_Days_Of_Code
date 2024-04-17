@@ -1,0 +1,1 @@
+**Ara derslerde modül hakkında bilgi veriyor ve Sandbox isimli bir şeyi kullanacağından bahsediyor. Dersleri oradan takip edeceğiz ve plan şu: Sandboxta kurs ile birlikte uygula, localde pratiğini yap!**

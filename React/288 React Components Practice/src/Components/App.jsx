@@ -4,9 +4,7 @@ import Heading from "./Heading";
 function App()
 {
     return(
-        <div>
-            <Heading />
-        </div>
+       <App />
     )
 }
 

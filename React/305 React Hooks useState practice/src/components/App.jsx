@@ -10,7 +10,7 @@ function App() {
     setTime(newTime);
   }
   // setInterval(updateTime,1000)
-  return (
+  return ( 
     <div className="container">
       <h1>{time}</h1>
       <button onClick={updateTime}>Get Time</button>
